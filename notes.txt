@@ -1,0 +1,6 @@
+4 factors about animations:-
+
+1) starting point
+2) ending point
+3) Duration
+4) Easing
